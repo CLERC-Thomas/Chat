@@ -1,5 +1,5 @@
 # Chat
-Système de clavardage en C sur un linux
+Système de clavardage en C sur linux
  
  # Executer le programme
 ```bash
